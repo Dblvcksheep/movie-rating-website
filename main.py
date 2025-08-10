@@ -11,7 +11,7 @@ import requests
 url = "https://api.themoviedb.org/3/search/movie"
 
 
-access_token = "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMWRkYzA3MmY2MmVlMGJlZGIxYTU4Nzc0NDQ3NWI4ZSIsIm5iZiI6MTc1NDgxODc4OC4wOTYsInN1YiI6IjY4OTg2OGU0M2IyYmU4MjU2YjhlYWEyYyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.DFsGKvy5Bjf9ta_uaY4QR9XQXUloFNGBBn095OWmC9U"
+access_token = "Bearer Put-your-access-token-here"
 
 headers ={
     "accept": "application/json",
